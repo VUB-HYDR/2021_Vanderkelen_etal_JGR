@@ -3,10 +3,10 @@
 ## PYTHON
 See also [paper_env](paper_env.yml). 
 
-# packages in environment at /glade/u/home/ivanderk/miniconda/envs/ctsm:
+### packages in environment at /glade/u/home/ivanderk/miniconda/envs/ctsm:
 
-#
-# Name                    Version                   Build  Channel
+###
+#### Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                 conda_forge    conda-forge
 _openmp_mutex             4.5                      1_llvm    conda-forge
 affine                    2.3.0                      py_0    defaults
