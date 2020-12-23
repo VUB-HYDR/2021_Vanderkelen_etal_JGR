@@ -1,12 +1,12 @@
 # SESSION INFO
 
 ## PYTHON
-See also [paper_env](paper_env.yml). 
+See also [paper_env.yml](paper_env.yml). 
 
-### packages in environment at /glade/u/home/ivanderk/miniconda/envs/ctsm:
+Packages in environment at /glade/u/home/ivanderk/miniconda/envs/ctsm:
 
-###
-#### Name                    Version                   Build  Channel
+<pre>
+# Name                    Version                   Build  Channel
 _libgcc_mutex             0.1                 conda_forge    conda-forge
 _openmp_mutex             4.5                      1_llvm    conda-forge
 affine                    2.3.0                      py_0    defaults
@@ -263,5 +263,6 @@ zict                      2.0.0                      py_0    defaults
 zipp                      3.1.0                      py_0    defaults
 zlib                      1.2.11               h7b6447c_3    defaults
 zstd                      1.4.4                h0b5b093_3    defaults
+</pre>
 
 
