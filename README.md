@@ -1,5 +1,7 @@
 # 2021_Vanderkelen_etal_JGR
 Scripts used for the analysis in Vanderkelen et al, 2021
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5007504.svg)](https://doi.org/10.5281/zenodo.5007504)
+
 
 ## For users
 The HYDROLAKES and GRanD data is processed using the tool [polygon_to_cellareafraction](https://github.com/VUB-HYDR/polygon_to_cellareafraction). 
